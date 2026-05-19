@@ -161,8 +161,6 @@ B.Tech Automobile Engineering | Minor: AI/ML | May 2026
 📱 6305778750
 🔗 [LinkedIn](linkedin.com/in/rishi-kumar-vnr)
 
-
-
 ---
 
 > *"What if your car could see the road before you feel it?"*
