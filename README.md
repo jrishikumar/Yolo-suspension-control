@@ -118,6 +118,9 @@ The adaptive system (cs = 5000 N·s/m) significantly reduces body oscillation co
 - **Body acceleration peaks**: ~40% lower in adaptive system
 - **Settling time**: adaptive system stabilizes 2–3x faster
 - **Suspension deflection**: better controlled in adaptive system
+<img width="469" height="361" alt="Screenshot 2026-05-19 102703" src="https://github.com/user-attachments/assets/ba94ef71-b42a-4cad-86c5-300a5e5741d1" />
+<img width="488" height="306" alt="Screenshot 2026-05-19 102713" src="https://github.com/user-attachments/assets/9cb3347c-076e-4e93-8ed7-a4d77dcb502c" />
+
 
 *(Add your result screenshots from the report here)*
 
