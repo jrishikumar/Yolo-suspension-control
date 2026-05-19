@@ -1,4 +1,4 @@
-# 🚗 YOLO-Based Predictive Suspension Control for Electric Vehicles
+# 🚗 YOLO-Based Predictive Suspension Control Using AI
 
 > Real-time road condition detection using YOLOv8 + adaptive suspension control via MATLAB/Simulink quarter-car model
 
